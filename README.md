@@ -51,7 +51,7 @@ Toàn bộ nằm trong một file `index.html`: CSS và JavaScript inline, khôn
 
 ## Bản demo
 
-https://casluminous.github.io/WebRTC-Network-Protocol-Lab/
+https://casluminous.github.io/
 
 ## Tài liệu tham khảo
 
